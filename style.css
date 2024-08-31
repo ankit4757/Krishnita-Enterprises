@@ -1,8 +1,19 @@
 body{
     background-color: aqua;
 }
-p{
+#headertitle{
     background-color: rgb(223, 102, 17);
     text-align: center;
     width: auto;
+    height: 90px;
+   text-decoration: solid underline rgb(53, 18, 189);
+   font-size: 60px;
+}
+#img-hotel{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+gap{
+border-image-outset: 100cm;
 }
